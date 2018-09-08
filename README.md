@@ -2,7 +2,7 @@
 Trabalho semestral de construção de um robo com arduino na matéria de Introdução a IOT
 
 
-Para o funcionamento da biblioteca da Shield L239D é necessário a instalacao da pasta com o source-code: "AFmotor" dentro da pasta libraries do diretorio da IDE arduíno: "C:\Program Files (x86)\Arduino\libraries"
+Para o funcionamento da biblioteca da Shield L239D é necessário a instalção da pasta com o source-code: "AFmotor" dentro da pasta libraries do diretorio da IDE arduíno: "C:\Program Files (x86)\Arduino\libraries"
 
 PT-BR:
 	
@@ -21,7 +21,5 @@ O trabalho consiste na realizacao de um combate entre carros controlados remotam
 Obs: para o correto funcionamento é recomendavel a instalaçao do aplicativo para android "Arduino Bluetooth RC Car"
 https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller
 	
-------------------------------------------------------------
-  João vitor paulino 2018
-  Firmware arduino controle de motores DC por bluetooth v0.1
-------------------------------------------------------------
+João vitor paulino 2018
+Firmware arduino controle de motores DC por bluetooth v0.1
